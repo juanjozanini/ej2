@@ -1,0 +1,20 @@
+
+header{
+    padding: 0.5%;
+}
+
+ul>li{
+    display: inline-block;
+    
+}
+
+ul>li>a{
+    color: white;
+    font-size: 25px;
+    text-decoration:none;
+    
+}
+
+.container{
+    margin-left: -15;
+}
